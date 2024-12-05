@@ -4,7 +4,6 @@
  */
 package B3;
 
-import B2.VigenereCipher;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;

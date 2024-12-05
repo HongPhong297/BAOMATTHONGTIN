@@ -4,7 +4,7 @@
  */
 package B5;
 
-import B3.RailFenceCipher;
+//import B3.RailFenceCipher;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
