@@ -5,7 +5,7 @@
 package B2_W2;
 
 
-import B1_W2.*;
+//import B1_W2.*;
 import java.awt.HeadlessException;
 import java.io.BufferedReader;
 import java.io.FileReader;
